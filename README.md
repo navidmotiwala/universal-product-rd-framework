@@ -32,6 +32,7 @@ A practical, product-agnostic research and development toolkit for investigating
 | [Risk register](templates/RISK-REGISTER.md) | Assess and mitigate risks |
 | [R&D report template](templates/PRODUCT-RD-REPORT.md) | Produce decision-ready reports |
 | [Repository audit](docs/REPOSITORY-AUDIT.md) | Coverage, limitations, and provenance |
+| **[Original prompt recovery manifest](docs/ORIGINAL-PROMPT-RECOVERY-MANIFEST.md)** | **Exact originals versus reconstructed and missing historical text** |
 
 ## How to use
 
@@ -61,6 +62,10 @@ A practical, product-agnostic research and development toolkit for investigating
 | [Hands-on Testing](prompts/HANDS-ON-TESTING.md) | Authorized testing |
 | [Independent R&D Audit](prompts/INDEPENDENT-RD-AUDIT.md) | Critical review |
 | [Market Sizing and Commercial Validation](prompts/MARKET-SIZING-COMMERCIAL-VALIDATION.md) | TAM/SAM/SOM and economics |
+
+## Original-source completeness
+
+**The original 35-section master prompt is published in full.** The full historical collection of earlier prompts is **not verified as reproduced verbatim**. See the [source recovery manifest](docs/ORIGINAL-PROMPT-RECOVERY-MANIFEST.md) for precise status and missing source material.
 
 ## Coverage status
 
