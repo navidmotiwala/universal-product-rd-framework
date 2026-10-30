@@ -2,7 +2,7 @@
 
 A practical, product-agnostic research and development toolkit for investigating, validating, improving, building, and commercializing products.
 
-**Scope:** 275 reference research categories, 20 industry overlays, a 14-phase workflow, market sizing, product economics, and reusable prompts.
+**Scope:** 275 reference research categories, 20 industry overlays, a 20-phase workflow, market sizing, product economics, and reusable prompts.
 
 > The category count is a reference index, not proof of exhaustive coverage. Select research relevant to the product and decision.
 
@@ -10,8 +10,9 @@ A practical, product-agnostic research and development toolkit for investigating
 
 | Guide | Contents |
 |---|---|
-| [Universal R&D Master Prompt](prompts/UNIVERSAL-RD-MASTER-PROMPT.md) | Copyable 14-phase prompt |
+| [Universal R&D Master Prompt](prompts/UNIVERSAL-RD-MASTER-PROMPT.md) | Expanded 20-phase execution prompt |
 | [Research Category Library](research/RESEARCH-CATEGORIES.md) | Organized research coverage |
+| [Reconstructed Categories 1 to 180](research/RECONSTRUCTED-CATEGORIES-001-180.md) | Individually numbered research questions; reconstructed, not verbatim |
 | [Detailed Categories 181 to 275](research/DETAILED-CATEGORIES-181-275.md) | Individually numbered advanced research topics |
 | [TAM, SAM, SOM and Market Sizing](market/TAM-SAM-SOM.md) | Definitions, formulas, examples |
 | [Product Metrics and Frameworks](market/PRODUCT-METRICS.md) | Financial, growth, strategy metrics |
@@ -49,7 +50,7 @@ A practical, product-agnostic research and development toolkit for investigating
 
 ## Coverage status
 
-This repository includes the consolidated research library, individually numbered categories 181 to 275, the universal prompt, and specialist prompts reconstructed from the discussion. The original 1 to 180 categories are not individually transcribed here, and reconstructed specialist prompts should not be treated as verbatim archives of earlier chat messages.
+This repository includes the consolidated research library, individually numbered categories 181 to 275, the universal prompt, and specialist prompts reconstructed from the discussion. Categories 1 to 180 are now individually listed in a **reconstructed** taxonomy, not the original verbatim text. Categories 181 to 275 retain their earlier published names. Specialist prompts are also reconstructed, not verbatim archives.
 
 ## Core principles
 
