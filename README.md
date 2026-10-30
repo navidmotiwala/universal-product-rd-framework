@@ -10,7 +10,8 @@ A practical, product-agnostic research and development toolkit for investigating
 
 | Guide | Contents |
 |---|---|
-| [Universal R&D Master Prompt](prompts/UNIVERSAL-RD-MASTER-PROMPT.md) | Expanded 20-phase execution prompt |
+| **[Original Universal Product R&D Master Prompt, 35 sections](prompts/UNIVERSAL-PRODUCT-RD-MASTER-PROMPT-ORIGINAL.md)** | **Exact text supplied by the user, organized into Parts A to K** |
+| [Expanded Universal R&D Master Prompt](prompts/UNIVERSAL-RD-MASTER-PROMPT.md) | Additional 20-phase execution framework |
 | [Research Category Library](research/RESEARCH-CATEGORIES.md) | Organized research coverage |
 | [Reconstructed Categories 1 to 180](research/RECONSTRUCTED-CATEGORIES-001-180.md) | Individually numbered research questions; reconstructed, not verbatim |
 | [Detailed Categories 181 to 275](research/DETAILED-CATEGORIES-181-275.md) | Individually numbered advanced research topics |
@@ -34,7 +35,7 @@ A practical, product-agnostic research and development toolkit for investigating
 
 ## How to use
 
-1. Open the [master prompt](prompts/UNIVERSAL-RD-MASTER-PROMPT.md).
+1. Open the [original 35-section master prompt](prompts/UNIVERSAL-PRODUCT-RD-MASTER-PROMPT-ORIGINAL.md) or the [expanded 20-phase version](prompts/UNIVERSAL-RD-MASTER-PROMPT.md).
 2. Enter a product name or URL and the research objective.
 3. Choose rapid, standard, deep, or exhaustive research.
 4. Select relevant modules, not all categories.
