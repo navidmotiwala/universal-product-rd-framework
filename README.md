@@ -19,6 +19,19 @@ A practical, product-agnostic research and development toolkit for investigating
 | [Industry Research Modules](research/INDUSTRY-MODULES.md) | 20 product-specific overlays |
 | [Evidence and Experiment Standards](research/EVIDENCE-AND-EXPERIMENTS.md) | Research quality and testing |
 
+## Practical workflow and templates
+
+| Resource | Purpose |
+|---|---|
+| [End-to-end R&D workflow](docs/RESEARCH-WORKFLOW.md) | Research stages and depth modes |
+| [Research brief](templates/RESEARCH-BRIEF.md) | Define product, questions, and decisions |
+| [Experiment card](templates/EXPERIMENT-CARD.md) | Plan and record tests |
+| [Source register](templates/SOURCE-REGISTER.md) | Track evidence and assumptions |
+| [Decision log](templates/DECISION-LOG.md) | Document decisions and triggers |
+| [Risk register](templates/RISK-REGISTER.md) | Assess and mitigate risks |
+| [R&D report template](templates/PRODUCT-RD-REPORT.md) | Produce decision-ready reports |
+| [Repository audit](docs/REPOSITORY-AUDIT.md) | Coverage, limitations, and provenance |
+
 ## How to use
 
 1. Open the [master prompt](prompts/UNIVERSAL-RD-MASTER-PROMPT.md).
