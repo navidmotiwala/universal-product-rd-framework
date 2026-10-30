@@ -28,6 +28,29 @@ A practical, product-agnostic research and development toolkit for investigating
 6. Test the uncertainties that could change decisions.
 7. Recommend build, improve, experiment, buy, partner, defer, or reject.
 
+
+## Reusable specialist prompts
+
+| Prompt | Purpose |
+|---|---|
+| [Quick Start Product R&D](prompts/QUICK-START-PRODUCT-RD.md) | Short research brief |
+| [Research Orchestrator](prompts/RESEARCH-ORCHESTRATOR.md) | Select and sequence research |
+| [Product Forensics](prompts/PRODUCT-FORENSICS.md) | Detailed product investigation |
+| [White Space and Innovation](prompts/WHITE-SPACE-AND-INNOVATION.md) | Opportunity discovery |
+| [Contradictory Evidence](prompts/CONTRADICTORY-EVIDENCE.md) | Challenge assumptions |
+| [Continuous Intelligence](prompts/CONTINUOUS-INTELLIGENCE.md) | Design monitoring |
+| [Scientific Decision Engine](prompts/SCIENTIFIC-DECISION-ENGINE.md) | Compare choices |
+| [Research Execution and Quality Control](prompts/RESEARCH-EXECUTION-QUALITY-CONTROL.md) | Research governance |
+| [Completeness and Relevance Check](prompts/COMPLETENESS-RELEVANCE-CHECK.md) | Coverage audit |
+| [Evidence-First Research](prompts/EVIDENCE-FIRST-RESEARCH.md) | Verify before recommending |
+| [Hands-on Testing](prompts/HANDS-ON-TESTING.md) | Authorized testing |
+| [Independent R&D Audit](prompts/INDEPENDENT-RD-AUDIT.md) | Critical review |
+| [Market Sizing and Commercial Validation](prompts/MARKET-SIZING-COMMERCIAL-VALIDATION.md) | TAM/SAM/SOM and economics |
+
+## Coverage status
+
+This repository includes the consolidated research library, individually numbered categories 181 to 275, the universal prompt, and specialist prompts reconstructed from the discussion. The original 1 to 180 categories are not individually transcribed here, and reconstructed specialist prompts should not be treated as verbatim archives of earlier chat messages.
+
 ## Core principles
 
 - Evidence before recommendations.
