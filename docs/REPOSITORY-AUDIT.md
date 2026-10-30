@@ -1,29 +1,43 @@
 # Repository Coverage and Provenance Audit
 
-**Audit date:** 2026-10-30
+**Reviewed:** 2026-10-30  
+**Verdict:** Published and navigable, but **not a complete verbatim archive** of every earlier prompt.
 
-## Coverage
+## Confirmed coverage
 
-- Expanded universal master prompt: published, 20 phases.
-- Specialist prompts: published, 13 standalone prompts plus master prompt.
-- Market sizing and product metrics: published.
-- Industry overlays: published, 20 industry/product types.
-- Categories 1 to 180: **reconstructed**, individually numbered. Original verbatim wording not available.
-- Categories 181 to 275: individually numbered with preserved category names, but concise guidance rather than the complete earlier narrative.
-- Research templates and workflow: published.
-- Live testing, market data collection, and research experiments: not performed by repository publication.
+| Item | Status | Verification |
+|---|---|---|
+| Original Universal Product R&D Master Prompt | Published | User-supplied original text, 35 sections, Parts A to K, 862 lines |
+| Expanded master prompt | Published | 20-phase reconstructed framework |
+| Categories 1 to 180 | Published as reconstructed index | 180 unique numbered entries, not original detailed prompts |
+| Categories 181 to 275 | Published as concise entries | 95 unique numbered entries, not full specialist prompt treatments |
+| Total category identifiers | Present | 275 unique numbers across two files |
+| Industry overlays | Published | 20 industry types |
+| Specialist prompts | Published | 13 standalone reconstructed prompts |
+| Market sizing and metrics | Published | TAM/SAM/SOM and product metrics guides |
+| Workflow and templates | Published | Research workflow and six reusable templates |
+| Live research experiments | Not performed | Framework files are instructions, not experimental results |
 
-## Known limitations
+## Remaining gaps
 
-This repository is a practical, reconstructed framework, not a verbatim archive of all earlier ChatGPT responses. No fixed list of categories can guarantee completeness for every product or regulatory environment. External links and citations should be added only when validated for a particular research project.
+1. **Original verbatim wording for categories 1 to 180 is unavailable.** The current 180-entry file is a reconstructed taxonomy, not an archival copy.
+2. **Full detailed category-specific prompts for categories 181 to 275 are not published.** The current file contains short prompts with preserved category titles.
+3. **Earlier specialist prompts may have contained additional examples, scenarios, methodologies, or variants.** The standalone files are reconstructed, not guaranteed exact reproductions.
+4. **No source-by-source verification of all historical conversation output has been performed.** Therefore no claim that absolutely everything from earlier conversations was preserved is justified.
+5. **No live research, product testing, source verification, or experiments were executed merely by publishing the toolkit.**
+6. **External references and GitHub Markdown links have not undergone a comprehensive automated link test.**
 
-## Quality checks for future updates
+## Verified source links
 
-1. Verify all internal Markdown links.
-2. Keep README phase counts aligned with the master prompt.
-3. Do not claim categories 1 to 180 were recovered verbatim.
-4. Keep assumptions and examples clearly labeled.
-5. Avoid duplicate prompts and vague placeholder instructions.
-6. Maintain consistent filenames and navigation.
-7. Validate calculations before publishing.
-8. Do not represent proposed tests as executed.
+- [Original 35-section master prompt](../prompts/UNIVERSAL-PRODUCT-RD-MASTER-PROMPT-ORIGINAL.md)
+- [Expanded 20-phase master prompt](../prompts/UNIVERSAL-RD-MASTER-PROMPT.md)
+- [Reconstructed categories 1 to 180](../research/RECONSTRUCTED-CATEGORIES-001-180.md)
+- [Concise categories 181 to 275](../research/DETAILED-CATEGORIES-181-275.md)
+- [Industry overlays](../research/INDUSTRY-MODULES.md)
+- [Research workflow](RESEARCH-WORKFLOW.md)
+
+## Release standard
+
+Before declaring the repository a complete archive, recover the original texts, compare each item against the source, add missing examples and specialist variants, and check all links and category-specific deliverables. If original source text is unavailable, retain explicit reconstruction labels.
+
+This repository is an educational, adaptable toolkit. It cannot guarantee exhaustive coverage of every product, market, or regulatory environment.
