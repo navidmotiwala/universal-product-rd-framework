@@ -1,6 +1,8 @@
 # Original Prompt Recovery and Publication Manifest
 
-**Audit date:** 2026-10-30  
+**Audit date:** 2026-10-30
+
+**Verification update:** The uploaded original master prompt and the GitHub file were compared character by character: both are 21,318 characters, 862 lines, with an exact text match. All 31 known repository Markdown files were fetched successfully through GitHub. The README and internal cross-reference destinations in those known files were checked against that fetched file inventory; no missing destinations were identified. This is not a historical transcript verification for reconstructed prompts.  
 **Goal:** Determine which earlier Universal Product R&D prompts are published in full and which cannot be verified against their original source.
 
 ## Evidence standard
