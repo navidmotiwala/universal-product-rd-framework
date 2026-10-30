@@ -12,6 +12,7 @@ A practical, product-agnostic research and development toolkit for investigating
 |---|---|
 | [Universal R&D Master Prompt](prompts/UNIVERSAL-RD-MASTER-PROMPT.md) | Copyable 14-phase prompt |
 | [Research Category Library](research/RESEARCH-CATEGORIES.md) | Organized research coverage |
+| [Detailed Categories 181 to 275](research/DETAILED-CATEGORIES-181-275.md) | Individually numbered advanced research topics |
 | [TAM, SAM, SOM and Market Sizing](market/TAM-SAM-SOM.md) | Definitions, formulas, examples |
 | [Product Metrics and Frameworks](market/PRODUCT-METRICS.md) | Financial, growth, strategy metrics |
 | [Industry Research Modules](research/INDUSTRY-MODULES.md) | 20 product-specific overlays |
