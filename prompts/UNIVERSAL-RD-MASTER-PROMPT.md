@@ -400,6 +400,9 @@ Never present the illustrative model as verified market data.
 ## Companion modules
 
 - [Research Category Library](../research/RESEARCH-CATEGORIES.md)
+- [Reconstructed Categories 1 to 180](../research/RECONSTRUCTED-CATEGORIES-001-180.md)
+- [Research Workflow](../docs/RESEARCH-WORKFLOW.md)
+- [Research Report Template](../templates/PRODUCT-RD-REPORT.md)
 - [Detailed Categories 181 to 275](../research/DETAILED-CATEGORIES-181-275.md)
 - [Industry Modules](../research/INDUSTRY-MODULES.md)
 - [TAM, SAM, SOM](../market/TAM-SAM-SOM.md)
@@ -411,4 +414,4 @@ Never present the illustrative model as verified market data.
 
 ---
 
-**Coverage note:** This is an expanded, reconstructed master prompt that combines the framework developed in the conversation. It is not a verbatim archival copy of every earlier response. The original numbered categories 1 to 180 have not been individually transcribed in the repository.
+**Coverage note:** This is an expanded, reconstructed master prompt that combines the framework developed in the conversation. It is not a verbatim archival copy of every earlier response. Categories 1 to 180 are individually listed in a reconstructed taxonomy, not a verbatim archive of the original earlier wording.
